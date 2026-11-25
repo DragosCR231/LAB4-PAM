@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,39 C45,34 35,33 24,36 L24,68 C35,64 45,65 53,72 Z" />
+    <path
+        android:fillColor="#F7F8F5"
+        android:pathData="M55,39 C63,34 73,33 84,36 L84,68 C73,64 63,65 55,72 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4E7487"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M31,44 C37,42 43,43 47,45 M31,51 C37,49 43,50 47,52 M61,45 C67,43 73,42 78,44 M61,52 C67,50 73,49 78,51" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#ED713E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,39 L54,72" />
+    <!-- Insigna "cloud": aplicatia ia datele de la un API -->
+    <path
+        android:fillColor="#F5C36B"
+        android:pathData="M68,38 L80,38 A4,4 0 0 0 80,30 A6,6 0 0 0 69,28.5 A5,5 0 0 0 68,38 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2F5D73"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M74,29.5 L74,35.5 M72,33.5 L74,35.5 L76,33.5" />
+</vector>
